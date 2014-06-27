@@ -7,12 +7,16 @@ BOM:
 
 Nylon shade cord: http://www.amazon.com/Roll-Yards-Shade-Cord-Lift/dp/B006DDHVM8
 
-6 M3x16 screws
+7 M3x16 screws
 
-6 M3 nuts
+7 M3 nuts
 
-8 M3 washers
+14 M3 washers
 
-4 693ZZ bearings
+7 693ZZ bearings
 
 2x cable_body.stl
+
+4x sled.stl
+
+4x pulley.stl
